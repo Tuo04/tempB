@@ -23,9 +23,16 @@ public final class R {
         public static final int main=0x7f030000;
     }
     public static final class string {
-        public static final int ApplicationName=0x7f050003;
-        public static final int Hello=0x7f050002;
+        public static final int ApplicationName=0x7f05000a;
+        public static final int Hello=0x7f050009;
         public static final int common_google_play_services_unknown_issue=0x7f050000;
+        public static final int default_web_client_id=0x7f050004;
+        public static final int firebase_database_url=0x7f050005;
+        public static final int gcm_defaultSenderId=0x7f050002;
+        public static final int google_api_key=0x7f050006;
+        public static final int google_app_id=0x7f050003;
+        public static final int google_crash_reporting_api_key=0x7f050007;
+        public static final int google_storage_bucket=0x7f050008;
         public static final int library_name=0x7f050001;
     }
 }

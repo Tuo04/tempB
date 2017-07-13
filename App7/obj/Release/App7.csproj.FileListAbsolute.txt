@@ -38,6 +38,7 @@ d:\Users\v-tuchen\Source\Repos\App7\App7\obj\Release\XbdMerge\Xamarin.Firebase.I
 d:\Users\v-tuchen\Source\Repos\App7\App7\obj\Release\XbdMerge\Xamarin.Firebase.Analytics.Impl.dll.stamp
 d:\Users\v-tuchen\Source\Repos\App7\App7\obj\Release\XbdMerge\Xamarin.Firebase.Analytics.dll.stamp
 d:\Users\v-tuchen\Source\Repos\App7\App7\obj\Release\XbdMerge\Xamarin.Firebase.Messaging.dll.stamp
+d:\Users\v-tuchen\Source\Repos\App7\App7\obj\Release\ProcessGoogleServicesJson.stamp
 d:\Users\v-tuchen\Source\Repos\App7\App7\obj\Release\App7.csproj.CoreCompileInputs.cache
 d:\Users\v-tuchen\Source\Repos\App7\App7\obj\Release\App7.dll
 d:\Users\v-tuchen\Source\Repos\App7\App7\obj\Release\App7.pdb

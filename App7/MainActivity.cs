@@ -38,13 +38,21 @@ namespace App7
                 }
 
                 // Send the notification summary to debug output
-                System.Diagnostics.Debug.WriteLine(summary);
+                //System.Diagnostics.Debug.WriteLine(summary);
+
+                //set alert for executing the task
+                AlertDialog.Builder alert = new AlertDialog.Builder(this);
+                alert.SetTitle("Push Message");
+                alert.SetMessage(summary);
+                
+                Dialog dialog = alert.Create();
+                dialog.Show();
             };
 
             Button button = FindViewById<Button>(Resource.Id.button1);
             button.Click += delegate { onCrash(); };
 
-            MobileCenter.Start("861d550c-b8f5-4c90-a39e-e367a110ec7b",
+            MobileCenter.Start("2e1f606b-2c80-4f3f-a719-9944d797410b",
                    typeof(Analytics), typeof(Crashes),typeof(Push));
 
         }
